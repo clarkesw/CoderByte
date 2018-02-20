@@ -1,6 +1,8 @@
 package car
 
-class MedDifficultyTest extends GroovyTestCase {
+import org.testng.annotations.Test
+
+class MedDifficultyTest {
     void testMain() {
     }
 
